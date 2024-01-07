@@ -1,16 +1,5 @@
-# jan72024_groceryapp
+<img width="171" alt="image" src="https://github.com/andiks2018/grocery_app_mitchiko/assets/78794419/95b862bb-015f-4e63-b1cb-8f32bf71736e">
 
-A new Flutter project.
+<img width="174" alt="image" src="https://github.com/andiks2018/grocery_app_mitchiko/assets/78794419/add61658-e3f0-44f9-8371-fb508dea4df8">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="173" alt="image" src="https://github.com/andiks2018/grocery_app_mitchiko/assets/78794419/1c7363ca-d91e-4650-9d1d-3bef979f8a6b">
